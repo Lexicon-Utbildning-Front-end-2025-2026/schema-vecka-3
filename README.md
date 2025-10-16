@@ -56,8 +56,8 @@ Efter denna vecka ska du:
 
 ## 📑 Lektionsrepon
 
-* **[Måndag](https://github.com/Lexicon-frontend-2025/lektion-12-jan)** (Mandus?) - **Objekt & Interfaces & Grundläggande DOM:** Repetition objekt, definiera typer med interfaces. DOM-manipulation: hämta och ändra text i HTML-element.
-* **[Tisdag](https://github.com/Lexicon-frontend-2025/lektion-13-jan)** (Mandus?) - **Funktioner:** Namngivna, arrow-funktioner, parametrar, returvärden, inbyggda funktioner.
+* **[Måndag](https://github.com/Lexicon-frontend-2025/lektion-1-juli)** (Mandus?) - **Objekt & Interfaces & Grundläggande DOM:** Repetition objekt, definiera typer med interfaces. DOM-manipulation: hämta och ändra text i HTML-element.
+* **[Tisdag](https://github.com/Lexicon-frontend-2025/lektion-30-jun)** (Mandus?) - **Funktioner:** Namngivna, arrow-funktioner, parametrar, returvärden, inbyggda funktioner.
 * **[Onsdag]** (Robert & Mandus?) - **Repetition & Eget arbete**
-* **[Torsdag](https://github.com/Lexicon-frontend-2025/lektion-15-jan)** (Mandus?) - **Mer DOM & Händelsehantering:** Modifiera och skapa HTML-element, hantera användarinteraktioner (klick, input).
+* **[Torsdag](https://github.com/Lexicon-frontend-2025/lektion-2-juli)** (Mandus?) - **Mer DOM & Händelsehantering:** Modifiera och skapa HTML-element, hantera användarinteraktioner (klick, input).
 * **[Fredag]** (Robert & Mandus?) - Code review på valfri övning från veckan

@@ -56,8 +56,8 @@ Efter denna vecka ska du:
 
 ## 📑 Lektionsrepon
 
-* **[Måndag]** (Mandus?) - **Objekt & Interfaces & Grundläggande DOM:** Repetition objekt, definiera typer med interfaces. DOM-manipulation: hämta och ändra text i HTML-element.
-* **[Tisdag]** (Mandus?) - **Funktioner:** Namngivna, arrow-funktioner, parametrar, returvärden, inbyggda funktioner.
-* **[Onsdag]** (Robert & Mandus?) - **Repetition & Eget arbete**
-* **[Torsdag]** (Mandus?) - **Mer DOM & Händelsehantering:** Modifiera och skapa HTML-element, hantera användarinteraktioner (klick, input).
-* **[Fredag]** (Robert & Mandus?) - Code review på valfri övning från veckan
+* **[Måndag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-12-jan)** (Mandus?) - **Objekt, Inbyggda Objekt ( ex. Math, window ), (JSON?), Typkonverteringar
+* **[Tisdag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-13-jan)** (Mandus?) - **Funktioner:** - named, arrow, parametrar, inbyggda, ex. Math.random, Array.isArray
+* **[Onsdag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-14-jan)** (Robert & Mandus?) - **Rep på obj, Interface/type, Intro till DOM, befintliga element & Eget arbete**
+* **[Torsdag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-15-jan)** (Mandus?) - **DOM-interaktion, hämta, modifiera element och skapa element.
+* **[Fredag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-16-jan)** (Robert & Mandus?) - Jobb med bootcamp på FM och code review på den på EM?

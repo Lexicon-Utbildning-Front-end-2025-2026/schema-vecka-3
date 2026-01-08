@@ -36,17 +36,7 @@ Efter denna vecka ska du:
 * [MDN - Array.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
 ## 🛠️ Övningar
-* [Sammanfattande övning av veckans koncept](https://github.com/Lexicon-frontend-2025/typescript_uppgift-vecka-1/blob/main/README.md) *(Denna är från förra veckan, men en bra repetition!)*
-* [Funktioner](https://github.com/Lexicon-frontend-2025/typescript_uppgift-funktioner)
-* [DOM-intro](https://github.com/Lexicon-frontend-2025/typescript_uppgift-DOM-manipulation/tree/main)
-* [Eventhantering](https://github.com/Lexicon-frontend-2025/typescript_uppgift-Eventhantering/)
-* Nya övningar kommer att presenteras under veckan som fokuserar på funktioner, DOM och händelsehantering.
-
-## 🖥️ Slides
-* [Funktioner](https://docs.google.com/presentation/d/1t0q8kVg3yWF4HMaql09jZQdKeraYVL8kv-WQlg9tQ3M/edit?usp=sharing)
-* [DOM-manipulation](https://docs.google.com/presentation/d/1KcEzk5GA-_fJfHy47UOhcE7TFh5GtRR0RuKxW376OUg/edit?usp=sharing)
-* [Eventhantering](https://docs.google.com/presentation/d/1hYkcrta3lFDBHJSko-Q--TlymDasp7r14NwcEPvOBbA/edit?usp=sharing)
-* Publiceras löpande under veckan.
+* Övningar kommer att presenteras under veckan.
 
 ## ➕ Övrigt
 * [TypeScript Playground](https://www.typescriptlang.org/play) – testa kod direkt i webbläsaren.
@@ -56,8 +46,8 @@ Efter denna vecka ska du:
 
 ## 📑 Lektionsrepon
 
-* **[Måndag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-12-jan)** (Mandus?) - **Objekt, Inbyggda Objekt ( ex. Math, window ), (JSON?), Typkonverteringar
-* **[Tisdag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-13-jan)** (Mandus?) - **Funktioner:** - named, arrow, parametrar, inbyggda, ex. Math.random, Array.isArray
-* **[Onsdag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-14-jan)** (Robert & Mandus?) - **Rep på obj, Interface/type, Intro till DOM, befintliga element & Eget arbete**
-* **[Torsdag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-15-jan)** (Mandus?) - **DOM-interaktion, hämta, modifiera element och skapa element.
-* **[Fredag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-16-jan)** (Robert & Mandus?) - Jobb med bootcamp på FM och code review på den på EM?
+* **[Måndag]** (Linus) - **Objekt, Inbyggda Objekt ( ex. Math, window ), (JSON?), Typkonverteringar
+* **[Tisdag]** (Linus) - **Funktioner:** - named, arrow, parametrar, inbyggda, ex. Math.random, Array.isArray
+* **[Onsdag]** (Linus) - **Rep på obj, Interface/type, Intro till DOM, befintliga element & Eget arbete**
+* **[Torsdag]** (Linus) - **DOM-interaktion, hämta, modifiera element och skapa element.
+* **[Fredag]** (Robert) - ?

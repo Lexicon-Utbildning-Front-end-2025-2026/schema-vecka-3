@@ -47,7 +47,7 @@ Efter denna vecka ska du:
 ## 📑 Lektionsrepon
 
 * **[Måndag]** (Linus) - **Objekt, Inbyggda Objekt ( ex. Math, window ), (JSON?), Typkonverteringar
-* **[Tisdag]** (Linus) - **Funktioner:** - named, arrow, parametrar, inbyggda, ex. Math.random, Array.isArray
+* **[Tisdag]** (Linus) - **Funktioner:** - named, arrow, parametrar, inbyggda, ex. Array.isArray
 * **[Onsdag]** (Linus) - **Rep på obj, Interface/type, Intro till DOM, befintliga element & Eget arbete**
 * **[Torsdag]** (Linus) - **DOM-interaktion, hämta, modifiera element och skapa element.
 * **[Fredag]** (Robert) - ?

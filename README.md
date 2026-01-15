@@ -39,6 +39,7 @@ Efter denna vecka ska du:
 * Övningar kommer att presenteras under veckan.
 * [Objekt - Måndag](https://github.com/linuszocom/TypeScript-Objekt-JSON)
 * [Funktioner - Tisdag](https://github.com/linuszocom/TypeScript-Functions)
+* [Projekt Fortsättning](https://github.com/linuszocom/TypeScript-Mini-Projekt-Fortsattning/tree/main)
 
 ## ➕ Övrigt
 * [TypeScript Playground](https://www.typescriptlang.org/play) – testa kod direkt i webbläsaren.

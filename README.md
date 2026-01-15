@@ -57,4 +57,24 @@ Efter denna vecka ska du:
 * **[Tisdag]** (Linus) - **Funktioner:** - named, arrow, parametrar, inbyggda, ex. Array.isArray
 * **[Onsdag]** (Linus) - **Rep på obj, Interface/type, Intro till DOM, befintliga element**
 * **[Torsdag]** (Linus) - **DOM-interaktion, hämta, modifiera element och skapa element.
-* **[Fredag]** (Robert) - ?
+
+## 📅 Fredag
+
+### Mål för dagen
+Fördjupa förståelsen för DOM-manipulation – alltså hur vi använder TypeScript för att styra vad som syns på skärmen.
+
+Frågor för Code Review:
+
+I grupp:
+1. **Visa** ett ställe i din kod där du använder en metod för att manipulera sidan.
+   * *Exempel: Skapa nya element (`createElement`), ändra text (`textContent`), byta klasser (`classList`) eller ta bort något.*
+2. **Förklara** med egna ord vad som händer på just den raden eller i det blocket.
+   * *Varför valde du att lösa det på just det sättet?*
+3. **Diskutera** om det fanns flera olika sätt att lösa samma problem på.
+   * *Kunde man gjort på något annat sätt? Vad är för- och nackdelarna med din valda metod?*
+
+Gemensamt:
+**Kortare sammanfattning** av vad era grupper pratade om, fick ni isnpiration av någon annan eller liknande?.
+
+### Övningar
+* Efter review - fixa i ordning din kod utifrån feedback och inspiration från de andra och fortsätt jobba med projektet.

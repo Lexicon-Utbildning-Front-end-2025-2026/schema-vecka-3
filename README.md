@@ -74,7 +74,8 @@ Frågor för Code Review:
    * *Kunde man gjort på något annat sätt? Vad är för- och nackdelarna med din valda metod?*
 
 **Gemensamt:**
-Kortare sammanfattning av vad era grupper pratade om, fick ni isnpiration av någon annan eller liknande?.
+
+Kortare sammanfattning av vad era grupper pratade om, fick ni isnpiration av någon annan eller liknande?
 
 ### Övningar
 * Efter review - fixa i ordning din kod utifrån feedback och inspiration från de andra och fortsätt jobba med projektet.

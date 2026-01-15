@@ -78,4 +78,9 @@ Frågor för Code Review:
 Kortare sammanfattning av vad era grupper pratade om, fick ni isnpiration av någon annan eller liknande?
 
 ### Övningar
-* Efter review - fixa i ordning din kod utifrån feedback och inspiration från de andra och fortsätt jobba med projektet.
+
+Efter er Code Review fortsätter ni med det egna projektet:
+
+* **Reflektera:** Fixa till din kod utifrån den feedback och inspiration du fick från dina gruppmedlemmar.
+* **Bygg vidare:** Fortsätt implementera funktionalitet i ditt projekt.
+* **Snygga till:** Se över dina variabelnamn och din struktur så att koden är lättläst.

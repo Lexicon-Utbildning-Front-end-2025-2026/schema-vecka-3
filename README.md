@@ -75,7 +75,7 @@ Frågor för Code Review:
 
 **Gemensamt:**
 
-Kortare sammanfattning av vad era grupper pratade om, fick ni isnpiration av någon annan eller liknande?
+Berätta kort hur det gick i gruppen, vad gick bra och vad var svårare när ni pratade om koden. 
 
 ### Övningar
 
